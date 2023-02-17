@@ -1,0 +1,5 @@
+module.exports.auth = require('./auth.controller')
+module.exports.user = require('./user.controller')
+module.exports.debit = require('./debit.controller')
+module.exports.numbers = require('./numbers.controller')
+module.exports.sip = require('./sip.controller')
